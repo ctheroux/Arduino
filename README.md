@@ -1,5 +1,8 @@
-# hardware
+# Arduino
 Various Arduino related programs
+
+## EEPROMDump
+Utility class that dumps on the Serial Monitor part of the EEPROM.
 
 ## TestProgramTIL311
 
