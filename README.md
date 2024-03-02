@@ -1,5 +1,5 @@
 # hardware
-Various hardware related programs
+Various Arduino related programs
 
 ## TestProgramTIL311
 
