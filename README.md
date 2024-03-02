@@ -2,7 +2,7 @@
 Various Arduino related programs
 
 ## EEPROMDump
-Utility class that dumps on the Serial Monitor part of the EEPROM.
+Utility class that dumps on the Serial Monitor part of the EEPROM content.
 
 ## TestProgramTIL311
 
